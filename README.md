@@ -13,8 +13,8 @@
 ```java
 public class Semih {
 
-    String[]  education  = {"BSc Software Dev @ HE Vinci"};
-    String[]  experience = {"Cybersecurity Intern @ Deloitte Belgium"};
+    String  education  = {"BSc Software Dev @ HE Vinci"};
+    String  experience = {"Cybersecurity Intern @ Deloitte Belgium"};
     String[]  interests  = {"Coding", "Homelab", "Motorcycles", "Gym"};
     String    location   = "Belgium 🇧🇪";
 
