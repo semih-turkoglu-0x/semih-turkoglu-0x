@@ -38,6 +38,7 @@ public class Semih {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -51,27 +52,6 @@ public class Semih {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=semih-turkoglu-0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semih-turkoglu-0x&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🚀 Current Projects
-
-| Project | Stack | Status |
-|---|---|---|
-| [coldcup](https://github.com/semih-turkoglu-0x/coldcup) | React · Vite · Tailwind | 🔨 In progress |
-| My Fitness Buddy | Spring Boot · PostgreSQL · React | 🧠 Designing |
-| Budget Planner | Spring Boot · React | 📋 Planned |
 
 ---
 
